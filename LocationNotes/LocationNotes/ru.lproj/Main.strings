@@ -1,0 +1,66 @@
+
+/* Class = "UINavigationItem"; title = "Name of folder"; ObjectID = "4xh-rm-UbD"; */
+"4xh-rm-UbD.title" = "Имя папки";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "7eA-d6-uKh"; */
+"7eA-d6-uKh.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8dl-hL-CWu"; */
+"8dl-hL-CWu.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "92L-5k-Yds"; */
+"92L-5k-Yds.title" = "Карта";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "DYM-hU-D1M"; */
+"DYM-hU-D1M.text" = "Title";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Mbu-BB-tK8"; */
+"Mbu-BB-tK8.text" = "Локация на карте";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Mky-R1-EoB"; */
+"Mky-R1-EoB.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Selected Folder"; ObjectID = "Mop-Rl-YGD"; */
+"Mop-Rl-YGD.title" = "Выбранная папка";
+
+/* Class = "UITabBarItem"; title = "Folders"; ObjectID = "Mya-1F-wQ0"; */
+"Mya-1F-wQ0.title" = "Папки";
+
+/* Class = "UINavigationItem"; title = "Name of note"; ObjectID = "Q2R-qC-l6x"; */
+"Q2R-qC-l6x.title" = "Имя заметки";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "RpY-rS-Xaq"; */
+"RpY-rS-Xaq.title" = "Карта";
+
+/* Class = "UITabBarItem"; title = "Notes"; ObjectID = "SFA-70-KxL"; */
+"SFA-70-KxL.title" = "Заметки";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Su6-ne-4CQ"; */
+"Su6-ne-4CQ.text" = "Title";
+
+/* Class = "UILabel"; text = "Folder"; ObjectID = "WaR-m0-aqe"; */
+"WaR-m0-aqe.text" = "Папка";
+
+/* Class = "UINavigationItem"; title = "Folders"; ObjectID = "Wm6-lX-lIi"; */
+"Wm6-lX-lIi.title" = "Папки";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "gJK-05-Sz5"; */
+"gJK-05-Sz5.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "kjc-Yk-R6D"; */
+"kjc-Yk-R6D.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "maG-RD-Fae"; */
+"maG-RD-Fae.title" = "Карта";
+
+/* Class = "UILabel"; text = "name_Folder"; ObjectID = "qVc-Oa-Qq0"; */
+"qVc-Oa-Qq0.text" = "name_Folder";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sJW-IA-9CT"; */
+"sJW-IA-9CT.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Notes"; ObjectID = "tbZ-D0-p04"; */
+"tbZ-D0-p04.title" = "Заметки";
+
+/* Class = "UITextField"; placeholder = "Name note"; ObjectID = "wi8-NW-pF3"; */
+"wi8-NW-pF3.placeholder" = "Имя Заметки";

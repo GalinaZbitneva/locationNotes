@@ -1,0 +1,21 @@
+/*
+  Localizable.strings
+  LocationNotes
+
+  Created by Галина Збитнева on 08.05.2021.
+  
+*/
+
+
+"All notes" = "Все заметки";
+"Create new folder" = "Создать новую папку" ;
+"Folder name" = "Имя папки";
+"Create" = "Создать";
+"Cancel" = "Отмена";
+"item(s)" = "штук";
+"Note name" = "Имя заметки";
+"Add image" = "Добавить изображение";
+"Would you like to add a photo?" = "Хотите добавить изображение?";
+"Make a photo" = "Сделать снимок";
+"Take a photo from library" = "Взять изображение из альбома";
+"Delete image" = "Удалить изображение";
